@@ -2,9 +2,9 @@
 
 ### This project includes three smart contracts that are used to split profits or company shares, deployed on the Ropsten test network. 
 
-#### AssociateProfitSplitter distributes profits evenly among three employees.
-#### TieredProfitSplitter distributes profits via a predetermined percentage (in this case based on position within the company, ie CEO, CTO and Bob, a random employee).
-#### DeferredEquityPlan is a deferred equity incentive plan that awards 1,000 company shares over a four year period (250 shares awarded every 365 days).
+#### AssociateProfitSplitter.sol distributes profits evenly among three employees.
+#### TieredProfitSplitter.sol distributes profits via a predetermined percentage (in this case based on position within the company, ie CEO, CTO and Bob, a random employee).
+#### DeferredEquityPlan.sol is a deferred equity incentive plan that awards 1,000 company shares over a four year period (250 shares awarded every 365 days).
 
 ### The following testnet addresses are used for the contracts:
 #### Ropsten Testnet address: 0xd7541c212ea2DEC49FF3081D49fE452b1a69db75
